@@ -1,0 +1,9 @@
+{
+  "name":"人在景中 · AI 场景人像融合",
+  "short_name":"人在景中",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#080d18",
+  "theme_color":"#0b1020",
+  "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
